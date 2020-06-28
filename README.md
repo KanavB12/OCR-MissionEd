@@ -1,5 +1,3 @@
-# OCR-MissionEd
-
 ## CURSIVE HANDWRITING RECOGNITION
 
 **Part I – Word Segmentation**
